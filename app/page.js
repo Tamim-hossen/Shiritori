@@ -123,7 +123,7 @@ function page() {
       }
     }
     else {
-      toast.error('Minimum 4 words')
+      toast.error('Minimum 4 letters')
     }
   }
 
